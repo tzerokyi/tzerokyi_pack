@@ -2,6 +2,8 @@
 
 A small collection of original, lightweight outline icons for personal projects.
 
+The settings icon includes `settings-rounded.svg` for a softer outline and `settings-solid.svg` for a filled style.
+
 ## Preview
 
 Open [`index.html`](index.html) in a browser to browse the icon set. Each icon links to its standalone SVG source.
